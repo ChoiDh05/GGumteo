@@ -59,7 +59,7 @@
 - DB 및 컨트롤러 설계 
 - 프론트 업무 : 영상-모집, 글-모집, 문의사항 작성페이지, 모집 상세 및 목록 반응형 웹페이지 
 - 백엔드 업무 : 메인 홈페이지, 영상-모집, 글-모집, 알림, 카카오 로그인, 회원가입
-- AWS 서버 배포 <a href="http://www.ggumteo.site/">GGumteo</a>
+- AWS 서버 배포 <a href="http://ggumteo.site/">GGumteo</a>
 
 ### 퍼블리싱 작업 - <a href="https://github.com/ChoiDh05/GGumteo-front/wiki/맡은-기능-소개(퍼블리싱)" > 상세보기 - WIKI 이동</a>
  1. 모집페이지 <br>
