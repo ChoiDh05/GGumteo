@@ -88,8 +88,9 @@ header.main-total-header .header-nav {
     display: flex;
     align-items: center;
     margin-right: 10px;
-    padding: 26px 0;
+    padding: 8px 0;
 }
+
 
 .test-logo {
     width: 90px;
