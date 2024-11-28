@@ -1,4 +1,4 @@
-# GGuemteo |<a href="http://www.ggumteo.site/"> Spring Boot 프로젝트 : 창작과 협업을 위한 열린 콘텐츠 플랫폼(http://www.ggumteo.site/)</a>
+# GGuemteo |<a href="http://ggumteo.site/"> Spring Boot 프로젝트 : 창작과 협업을 위한 열린 콘텐츠 플랫폼(http://ggumteo.site/)</a>
 
 ## 🖥️ 프로젝트 소개
 누구나 자신의 창작물을 공유하거나 판매하고, 펀딩을 통해 지원받을 수 있는 플랫폼으로, 필요한 인재를 모집하며 협업할 수 있는 창작 생태계를 제공합니다.
@@ -59,7 +59,7 @@
 - DB 및 컨트롤러 설계 
 - 프론트 업무 : 영상-모집, 글-모집, 문의사항 작성페이지, 모집 상세 및 목록 반응형 웹페이지 
 - 백엔드 업무 : 메인 홈페이지, 영상-모집, 글-모집, 알림, 카카오 로그인, 회원가입
-- AWS 서버 배포 <a href="http://www.ggumteo.site/">GGumteo</a>
+- AWS 서버 배포 <a href="http://ggumteo.site/">GGumteo</a>
 
 ### 퍼블리싱 작업 - <a href="https://github.com/ChoiDh05/GGumteo-front/wiki/맡은-기능-소개(퍼블리싱)" > 상세보기 - WIKI 이동</a>
  1. 모집페이지 <br>
