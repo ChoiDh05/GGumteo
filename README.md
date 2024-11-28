@@ -1,4 +1,4 @@
-# GGuemteo |<a href="http://www.ggumteo.site/"> Spring Boot 프로젝트 : 창작과 협업을 위한 열린 콘텐츠 플랫폼(http://www.ggumteo.site/)</a>
+# GGuemteo |<a href="http://ggumteo.site/"> Spring Boot 프로젝트 : 창작과 협업을 위한 열린 콘텐츠 플랫폼(http://www.ggumteo.site/)</a>
 
 ## 🖥️ 프로젝트 소개
 누구나 자신의 창작물을 공유하거나 판매하고, 펀딩을 통해 지원받을 수 있는 플랫폼으로, 필요한 인재를 모집하며 협업할 수 있는 창작 생태계를 제공합니다.
